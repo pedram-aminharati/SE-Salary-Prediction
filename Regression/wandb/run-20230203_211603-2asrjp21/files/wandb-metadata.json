@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-02-03T20:16:17.645034",
+    "startedAt": "2023-02-03T20:16:03.391053",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "SE-Salary-Prediction/Regression/Untitled.ipynb",
+    "root": "C:/Users/pedia/SE-Salary-Prediction",
+    "git": {
+        "remote": "https://github.com/pedi4tor/SE-Salary-Prediction.git",
+        "commit": "e3fb1f38d3f544affa0eff3fdf3bca856ef008f0"
+    },
+    "email": "pedramam@edu.aau.at",
+    "host": "pedi4tor",
+    "username": "pedia",
+    "executable": "C:\\Users\\pedia\\anaconda3\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3302.0,
+        "min": 0.0,
+        "max": 3302.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3302.0,
+            "min": 0.0,
+            "max": 3302.0
+        }
+    ],
+    "disk": {
+        "total": 453.5120277404785,
+        "used": 303.3693542480469
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.698570251464844
+    }
+}
